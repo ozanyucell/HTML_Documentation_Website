@@ -36,6 +36,10 @@
 
   # Attributes
   * Attributes are used to provide additional information about HTML elements.
+  * Every HTML element can have an attribute.
+  * Attributes provide additional information about the elements.
+  * These must always be provided in the start tag.
+  * Some of these are; `src`, `width`, `height`, `alt`, `style`, `lang` (used to define the language of the page), `id`, `class`, `title`, etc.
   
   Here is an example from above:
   ```
