@@ -33,3 +33,14 @@
   ```
   * The source file (src), alternative text (alt), width, and height are provided as attributes.
   * ```px``` is basically pixels.
+
+  # Attributes
+  * Attributes are used to provide additional information about HTML elements.
+  
+  Here is an example from above:
+  ```
+  <a href="https://ce.ieu.edu.tr/en">
+  ```
+  `href` is an attribute here.
+  #
+  * See you on the next document!
