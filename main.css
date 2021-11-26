@@ -11,13 +11,12 @@ body{
 	padding:20px;
 }
 
-
 #sidebar {
 	width:250px;
 	height:620px;
 	float:left;
-	padding:20px 20px 59px 20px;
-	border-right:5px solid #4f4141;
+	padding:20px 20px 69px 20px;
+	border-right:5px solid #181818;
 }
 #sidebar a{
 	color:rgb(0, 0, 0);
@@ -37,7 +36,6 @@ ol li{
 	margin:15px 0 15px 0;
 }
 
-
 .header{
 	color:#000000
 }
@@ -45,12 +43,10 @@ ol li{
 	padding:30px;
 	text-align:left;
 	background-color:#181818;
-	border-bottom:5px solid #4f4141;
 }
 #main_header a{
 	color:#948383;
 }
-
 
 #footer {
 	color: #948383;
@@ -59,7 +55,6 @@ ol li{
 	padding:30px;
 	text-align:center;
 	background-color:#181818;
-	border-top:5px solid #4f4141;
 	position: absolute; 
 	bottom: 0;
 }

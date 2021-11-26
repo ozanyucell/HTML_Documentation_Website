@@ -6,3 +6,5 @@
 ```
 
 * The document block in this page you are looking at is an Iframe.
+
+* Here is an another example for IFrames:
