@@ -14,7 +14,7 @@
 ```
 
 ### Ordered HTML List
-* An ordered list starts with the <ol> tag. Each list item starts with the <li> tag same as unordered.
+* An ordered list starts with the `<ol>` tag. Each list item starts with the `<li>` tag same as unordered.
 * `<ol>` stands for ordered list.
 
 ```
@@ -24,3 +24,5 @@
   <li>Banana</li>
 </ol> 
 ```
+#
+* See you on the next document!
