@@ -1,7 +1,8 @@
 body{
-	font:1em Trebuchet MS;
+	font:1em;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	word-spacing:2px;
-	color:#7c7c7c;
+	background-color:#c5c2c2;
 	margin:0;
 }
 
@@ -15,18 +16,22 @@ body{
 	width:250px;
 	height:620px;
 	float:left;
-	padding:20px 20px 50px 20px;
-	border-right:5px solid #333;
+	padding:20px 20px 59px 20px;
+	border-right:5px solid #4f4141;
 }
 #sidebar a{
-	color:rgb(255, 255, 255);
+	color:rgb(0, 0, 0);
 	border:none;
 }
 #navigation_menu a{
 	display:block;
-	color:#17ccbd;
+	color:#6e6658;
 }
 
+a{
+	text-decoration: none;
+	font-weight:bold;
+}
 
 ol li{
 	margin:15px 0 15px 0;
@@ -34,29 +39,30 @@ ol li{
 
 
 .header{
-	color:#17ccbd
+	color:#000000
 }
 #main_header{
 	padding:30px;
 	text-align:left;
-	background:rgb(32, 32, 32);
-	border-bottom:5px solid #333;
+	background-color:#181818;
+	border-bottom:5px solid #4f4141;
 }
 #main_header a{
-	color:#17ccbd;
+	color:#948383;
 }
 
 
 #footer {
+	color: #948383;
 	width: 1860px;
 	height:12px;
 	padding:30px;
 	text-align:center;
-	background:#000;
-	border-top:5px solid #333;
+	background-color:#181818;
+	border-top:5px solid #4f4141;
 	position: absolute; 
 	bottom: 0;
 }
 #footer a {
-	color:#17ccbd;
+	color: white;
 }
