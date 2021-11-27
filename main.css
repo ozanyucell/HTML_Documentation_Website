@@ -24,7 +24,7 @@ body{
 }
 #navigation_menu a{
 	display:block;
-	color:#6e6658;
+	color:#1a1a1a;
 }
 
 a{
@@ -42,14 +42,14 @@ ol li{
 #main_header{
 	padding:30px;
 	text-align:left;
-	background-color:#181818;
+	background-color:#2e2e2e;
 }
 #main_header a{
-	color:#948383;
+	color:#afafaf;
 }
 
 #footer {
-	color: #948383;
+	color: #afafaf;
 	width: 1860px;
 	height:12px;
 	padding:30px;
